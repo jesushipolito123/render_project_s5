@@ -1,0 +1,13 @@
+# Ignorar archivos de byte compilados de Python
+*.pyc
+
+# Ignorar directorios de entornos virtuales (si los estás usando)
+venv/
+env/
+env.bak/
+venv.bak/
+
+# Ignorar archivos y directorios generados automáticamente
+__pycache__/
+.cache/
+.log/
